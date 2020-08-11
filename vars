@@ -1,0 +1,44 @@
+export KEY=mykey
+export IMAGE=ubuntu-20.04
+export EXTERNAL_NETWORK=net-ext
+export FLOATING_IP_POOL=net-ext
+export SUBNET_CIDR=10.2.0.0/17
+export POD_SUBNET_CIDR=10.1.0.0/16
+export CLUSTER_DNS_IP=10.1.0.10
+export BLOCK_STORAGE_VERSION=v2
+export NODE_FLAVOR=m1.kube
+export NODE_COUNT=2
+export NODE_AUTO_IP=true
+export NODE_DELETE_FIP
+export NODE_TERMINATE_VOLUME
+export NODE_VOLUME_SIZE=40
+export MASTER_VOLUME_SIZE=40
+export MASTER_FLAVOR=m1.medium
+export MASTER_BOOT_FROM_VOLUME
+export MASTER_TERMINATE_VOLUME
+export USE_LOADBALANCER=YES
+export USE_OCTAVIA=YES
+
+export PASS=YbSJjm7gVOaJs8oO2oxsgbV7vRAuU1w1a3VcukiS
+export EXTERNAL_NET=0adbb3d2-2675-4d15-9ae9-341478147f68
+export SECGROUP=ed872c38-8d7e-4af4-a3cc-de0617796f60
+export EXTERNAL_SUBNET=
+export SERVICE_SUBNET=
+export POD_SUBNET=
+export PROJECT=
+export USERNAME=admin
+export KUBE_SUBNET=
+export PROJECT_NAME=admin
+export AUTH_URL=http://10.71.71.15:5000/v3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
